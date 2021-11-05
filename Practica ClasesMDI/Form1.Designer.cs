@@ -80,7 +80,7 @@ namespace Practica_ClasesMDI
             // cosasVariasToolStripMenuItem
             // 
             this.cosasVariasToolStripMenuItem.Name = "cosasVariasToolStripMenuItem";
-            this.cosasVariasToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.cosasVariasToolStripMenuItem.Size = new System.Drawing.Size(225, 30);
             this.cosasVariasToolStripMenuItem.Text = "Cosas varias";
             // 
             // salirToolStripMenuItem
