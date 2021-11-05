@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica ClasesMDI", "Practica ClasesMDI\Practica ClasesMDI.csproj", "{1DCD8006-58B2-486D-83B1-3689D7A6813B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBD6331F-1E4E-4FBB-8FB7-B0DEF8D40210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCD8006-58B2-486D-83B1-3689D7A6813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCD8006-58B2-486D-83B1-3689D7A6813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCD8006-58B2-486D-83B1-3689D7A6813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCD8006-58B2-486D-83B1-3689D7A6813B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3017239-7096-42E8-9BAF-76FE36160978}
+	EndGlobalSection
+EndGlobal
